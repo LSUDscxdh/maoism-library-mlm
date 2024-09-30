@@ -152,7 +152,7 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 ---
 ## <font color=red>`五、西方马克思主义思潮概论与批判```  </font> 
 
-西方马克思主义概论与批判-[(点击链接查看正文)](./西方马克思主义批判.html)              
+西方马克思主义概论与批判-[(点击链接查看正文)]([./西方马克思主义批判.html](https://github.com/LSUDscxdh/maoism-library-mlm/blob/main/%E8%A5%BF%E6%96%B9%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%89%B9%E5%88%A4.md))                       
 ##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考前文的网盘资源   
 
 ---     
