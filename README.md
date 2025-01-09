@@ -1,6 +1,6 @@
 # <font color=red> Maoism-马列毛主义自由开源图书资料库
 ——全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，为了实现共产主义而奋斗！    </font>
-<img src="./imeages/mlm3.png" alt="drawing" width="650"/>   
+<img src="./imeages/mlm.png" alt="drawing" width="650"/>   
 
 
 
