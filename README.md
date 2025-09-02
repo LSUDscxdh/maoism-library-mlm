@@ -1,6 +1,6 @@
 # <font color=red> Maoism-马列毛主义自由开源图书资料库
 ——全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，为了实现共产主义而奋斗！ </font>
-<img src="./imeages/mlm.png" alt="drawing" width="650"/>        
+<img src="./imeages/mlm3.png" alt="drawing" width="650"/>        
 
 - 最新完整内容请访问[马列毛主义图书资料及网站汇编/*免费匿名代理或vpn/自建代理或vpn*/安全标准/网络安全/自由及开源软件和系统使用指导/匿名/加密/虚拟机/匿名邮箱/匿名加密聊天/匿名文件传输/阅后即焚/匿名网站搭建/匿名博客...](https://minzuhun.codeberg.page/)   
     
