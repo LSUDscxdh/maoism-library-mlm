@@ -25,7 +25,7 @@
 </details> 
 ----------------------------------------------------------------------------
 
-&ensp;&ensp; <font size=2>==说明==： 此项目复制/搬运于其他开源项目，内容均来自互联网，请勿用于非法用途。如果网址打不开或者没反应请[连接国际互联网](https://codeberg.org/ljggfvn217/go-to-world)使用。外文网页建议配合浏览器插件翻译网页，比如[翻译插件twp](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/),推荐使用[firefox火狐浏览器国际版](https://www.mozilla.org/en-US/firefox/all/),火狐浏览器支持pfd文件在线观看而且无网站黑名单拦截。如果点击链接没反应，请多等一会，或者换节点。</font>      
+&ensp;&ensp; <font size=2>==说明==： 此项目复制/搬运于其他开源项目，内容均来自互联网，请勿用于非法用途。如果网址打不开或者没反应请[连接国际互联网](https://gitea.com/gjcxn358/go-to-word)使用。外文网页建议配合浏览器插件翻译网页，比如[翻译插件twp](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/),推荐使用[firefox火狐浏览器国际版](https://www.mozilla.org/en-US/firefox/all/),火狐浏览器支持pfd文件在线观看而且无网站黑名单拦截。如果点击链接没反应，请多等一会，或者换节点。</font>      
 &ensp;&ensp;<font size=2>==须知==: **请使用下面的自由开源软件下载和阅读资料,避免被跟踪**.点击即可免代理下载  
 |软件类型|安卓|windows|网页版|
 |:---:|:---:|:---:|:---:|
