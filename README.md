@@ -1,13 +1,15 @@
 # <font color=red> Maoism-马列毛主义自由开源图书资料库
-——全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，为了实现共产主义而奋斗！    </font>
-<img src="./imeages/mlm.png" alt="drawing" width="650"/>   
+——全世界无产者联合起来，全世界受压迫者和被剥削者联合起来，为了实现共产主义而奋斗！ </font>
+<img src="./imeages/mlm.png" alt="drawing" width="650"/>        
 
-
-
-- 最新完整内容请访问[马列毛主义图书资料及网站汇编/*免费匿名代理或vpn/自建代理或vpn*/安全标准/网络安全/自由及开源软件和系统使用指导/匿名/加密/虚拟机/匿名邮箱/匿名加密聊天/匿名文件传输/阅后即焚/匿名网站搭建/匿名博客...](https://minzuhun.codeberg.page/)
+- 最新完整内容请访问[马列毛主义图书资料及网站汇编/*免费匿名代理或vpn/自建代理或vpn*/安全标准/网络安全/自由及开源软件和系统使用指导/匿名/加密/虚拟机/匿名邮箱/匿名加密聊天/匿名文件传输/阅后即焚/匿名网站搭建/匿名博客...](https://minzuhun.codeberg.page/)   
     
----        
-## 马列毛图书资料专题   
+<details>
+<summary><code><strong>
+<font size=4>目录</font>（点击左侧折叠按钮展开）</strong></code></summary>
+
+
+
 ```
 ==目录==
 *****************************************************************************
@@ -20,12 +22,14 @@
 七.自由及开源系统和软件使用指南，网络安全合集 
 *****************************************************************************  
   ```       
-  
+</details> 
+----------------------------------------------------------------------------
+
 &ensp;&ensp; <font size=2>==说明==： 此项目复制/搬运于其他开源项目，内容均来自互联网，请勿用于非法用途。如果网址打不开或者没反应请[连接国际互联网](https://codeberg.org/ljggfvn217/go-to-world)使用。外文网页建议配合浏览器插件翻译网页，比如[翻译插件twp](https://addons.mozilla.org/zh-CN/firefox/addon/traduzir-paginas-web/),推荐使用[firefox火狐浏览器国际版](https://www.mozilla.org/en-US/firefox/all/),火狐浏览器支持pfd文件在线观看而且无网站黑名单拦截。如果点击链接没反应，请多等一会，或者换节点。</font>      
 &ensp;&ensp;<font size=2>==须知==: **请使用下面的自由开源软件下载和阅读资料,避免被跟踪**.点击即可免代理下载  
 |软件类型|安卓|windows|网页版|
 |:---:|:---:|:---:|:---:|
-|火狐浏览器|[fennec国际](https://codeberg.org/p23tyjujukk/fdroid-use/raw/commit/704fea28f833853d3f5b36ce4a1b66f96a8b157b/%E5%B8%B8%E7%94%A8%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/Fennec%E6%B5%8F%E8%A7%88%E5%99%A8.apk)|[火狐国际](https://www.mozilla.org/en-US/firefox/all/) |:---:|      
+|火狐浏览器国际版|[安卓](https://ftp.mozilla.org/pub/fenix/releases/)<font size=1>(版本号最大的是最新的) </font>|[电脑](https://www.mozilla.org/en-US/firefox/all/) |:---:|      
 |解压缩|[ZipXtract](https://codeberg.org/p23tyjujukk/fdroid-use/raw/commit/7814b5c8ad85db08cb97e18bf31b3727fa67584e/%E5%B8%B8%E7%94%A8%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/%E8%A7%A3%E5%8E%8B%E7%BC%A9ZipXtract.apk)|[7zip](https://www.7-zip.org/)|:---:|:---:|   
 |文件管理|[amaze](https://codeberg.org/p23tyjujukk/fdroid-use/raw/commit/704fea28f833853d3f5b36ce4a1b66f96a8b157b/%E5%B8%B8%E7%94%A8%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86Amaze.apk)|:---:|:---:|    
 |阅读器|[librera](https://codeberg.org/p23tyjujukk/fdroid-use/raw/commit/724ff8615f4faa85685f46c5b0b7d8c95a223c85/%E5%B8%B8%E7%94%A8%E8%87%AA%E7%94%B1%E5%8F%8A%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/%E9%98%85%E8%AF%BB%E5%99%A8Librera%20FD.apk)|[koodo](https://www.koodoreader.com/zh)|[koodo](https://web.koodoreader.com/#/manager/empty) |
@@ -33,13 +37,24 @@
 
 
 <font color=red>&ensp;&ensp;**根据解压后文件名后缀 网上查询用什么软件打开,请勿使用腾讯浏览器/腾讯文件管理等非开源程序解压和阅读资料文件,会记录并上报用户隐私。 **</font>    
-<img src="./imeages/m3.jpg" alt="mlm" width="650" />                      
+<img src="./imeages/m3.jpg" alt="mlm" width="650" />      </font>                    
 
----              
-##  <font color=red> `一.马列毛学习推荐资料```    </font>                  
+----------------------------------------------------------------------------
+## <font color=red>  正文：    </font>   
+==（点击下面列表标题或折叠按钮即可展开内容）== 
 
 
-#### [点击此免代理下载和在线观看核心书籍 ](https://codeberg.org/lovechina/books)              
+
+
+
+
+
+
+<details>
+<summary><code><strong><font color=red><font size=4>一. 马列毛学习推荐资料 </font></font></strong></code></summary>
+
+#### 一. 马列毛学习推荐资料  
+##### [点击此免代理下载和在线观看核心书籍 ](https://codeberg.org/lovechina/books)              
 **书籍推荐：**   
   ==注意==:pdf扫描版可能不清晰,epub/mobi或者txt版文字清晰度高切更适合手机的小界面,只是epub和mobi版不能在线阅览,点击括号内的版本即可在线阅览或者下载                                 
 1. 教员 ：辩证法唯物论讲授提纲(|[PDF](https://codeberg.org/lovechina/books/raw/commit/1bdadd4fd310d22e4fcc28ad4ea1d31d20dfb8ff/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8E%9F%E8%91%97%E5%92%8C%E4%BC%A0%E8%AE%B0/%E6%AF%9B%E6%B3%BD%E4%B8%9C-%E8%BE%A9%E8%AF%81%E6%B3%95%E5%94%AF%E7%89%A9%E8%AE%BA%28%E8%AE%B2%E6%8E%88%E6%8F%90%E7%BA%B2%EF%BC%89.pdf)    |  [EPUB](https://codeberg.org/lovechina/books/raw/commit/1d0511a0a5f787035fa76f97a090fa75c28ed436/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8E%9F%E8%91%97%E5%92%8C%E4%BC%A0%E8%AE%B0/%E6%AF%9B%E6%B3%BD%E4%B8%9C-%E8%BE%A9%E8%AF%81%E6%B3%95%E5%94%AF%E7%89%A9%E8%AE%BA%28%E8%AE%B2%E6%8E%88%E6%8F%90%E7%BA%B2%29.epub)   |  [网页在线版](https://www.marxists.org/chinese/maozedong/1937/index.htm)|)         
@@ -91,12 +106,17 @@
 [铁木尔哈达(党员)的晚年日记《醒悟》](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE#5vpo54xms7u16)  等 
 <img src="./imeages/j6g.jpg" alt="mlm" width="650" />                     
 
---- 
-## <font color=red>`二.互联网搜集的图书资源汇编``      </font>  
- 
+</details>
+
+
+
+
+<details>
+<summary><code><strong><font color=red><font size=4>二. 互联网搜集的图书资源汇编</font></font></strong></code></summary>
+
+#### 二. 互联网搜集的图书资源汇编
 &ensp;&ensp;;**解压密码多为文件名后括号内的字母数字或者文件名中文后英文开始的部分（不包含“.xxx”文件名后缀）**   
-
-
+    
 ==推荐集==         
 1. [原著及理论基础精简版及免代理可在线](https://codeberg.org/lovechina/books) （马克思-恩格斯-列宁斯-斯大林-毛泽东）    
 2. [五大导师原著及参考资料完整版](https://www.mediafire.com/folder/ztrtd5v0299mx/ADOBE#qjwkgqx3du4v8) 
@@ -128,20 +148,35 @@
 4. [软件互联网安全相关](https://codeberg.org/p23tyjujukk/internet-security)                             
 5. [燎原月刊官方网盘](https://www.mediafire.com/folder/19inu1mna8ioz) (同步比后文燎原官方github链接慢)  
  
----       
-##  <font color=red>`三.其他人的开源项目项目/资料库，包含很多资料```</font> 
+ </details>
+
+
+
+
+ <details>
+<summary><code><strong><font color=red><font size=4>三. 其他人的开源项目项目/资料库，包含很多资料</font></font></strong></code></summary>
+
+#### 三. 其他人的开源项目/资料库，包含很多资料
 &ensp;&ensp;&ensp;&ensp;**github项目可以在线书籍，点击“view code”打开项目目录， 打开要下载的文件， 左上角“... ”按钮，从上往下数第三个 “...”，点击后再点击view,有view选项，点击即可在线阅览和下载，download下载按钮只能在电脑端使用**   
-- [国际加速器使用教程-收集自他人开源项目](https://gitea.com/gjcxn358/go-to-word)      
-- [燎原月刊第三方免代理](https://codeberg.org/flower93210/liaoyuan)                 
-- [燎原月刊官方（同步更新)](https://github.com/monthlyliaoyuan/monthlyliaoyuan)        
-- [春雷杂志官方（同步更新)](https://github.com/monthlyliaoyuan/SpringThunder)    
-- [马列毛资料库 （支持在线观看/下载)](https://github.com/ProletRevDicta/Prolet)  
+- [国际加速器使用教程-收集自他人开源项目](https://gitea.com/gjcxn358/go-to-word)  
+- [马列毛资料库 （支持在线观看/下载)](https://github.com/ProletRevDicta/Prolet)     
+- [马列毛主义统一战线图书馆1](https://bookstore.cmlmuf.top/)          
+- [马列毛主义统一战线图书馆2](https://library.cmlmuf.top/)   
+- [燎原月刊官方（注意甄别内容)](https://github.com/monthlyliaoyuan/monthlyliaoyuan)           
+ 
 
  
 <img src="./imeages/j.jpg" alt="毛主席和群众" width="650" />                   
 
----
-## <font color=red>`四.电子书和纪录片电影检索下载引擎网站```</font> 
+</details>
+
+
+
+
+<details>
+<summary><code><strong><font color=red><font size=4>四. 电子书和纪录片电影检索下载引擎网站</font></font></strong></code></summary>
+
+#### 四. 电子书和纪录片电影检索下载引擎网站      
 1. 首选zli图书馆（全球最大开源电子书网站，一个账号每人免费10次下载）安卓app端见网盘1             
 [zli图书馆安卓客户端（其他客户端也在这个网址)](https://zh.go-to-library.sk/#android_app_tab)       
 [zli图书馆可用网址检测](https://zh.go-to-library.sk/#useful_link_tab)           
@@ -154,19 +189,38 @@
 6. 如何下载纪录片/电影：谷歌或者bing搜索磁力网站，在磁力网站检索资源/谷歌直接搜索电影纪录片。示例磁力聚合：   
 https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工具下载  
 
----
-## <font color=red>`五、西方马克思主义思潮概论与批判```  </font> 
+</details>
 
-西方马克思主义概论与批判-[点击链接查看正文](https://github.com/LSUDscxdh/maoism-library-mlm/blob/main/%E8%A5%BF%E6%96%B9%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%89%B9%E5%88%A4.md)                         
-##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考前文的网盘资源   
 
----     
-## <font color=red>`六、一些推荐网站  (新闻资料等) ``` </font>     
+
+
+
+<details>
+<summary><code><strong><font color=red><font size=4>五. 西方马克思主义思潮概论与批判</font></font></strong></code></summary>
+
+#### 五. 西方马克思主义思潮概论与批判    
+西方马克思主义概论与批判-[(点击链接查看正文)](./西方马克思主义批判.html)                 
+##### 托洛茨基主义/安娜其无政府主义/修正主义批判参考前文的网盘资源     
+
+</details>
+
+
+
+
+
+
+
+<details>
+<summary><code><strong><font color=red><font size=4>六. 一些推荐网站  (新闻资料等)</font></font></strong></code></summary>
+
+#### 六. 一些推荐网站  (新闻资料等)        
 - [布站-新闻文章等，需要魔法](https://longlivemarxleninmaoism.online/)      
 - [国际共产主义联盟官网（毛主义）](https://ci-ic.org/)          
 [毛泽东博览（毛泽东资料库）](http://www.mzdbl.cn/)        
 - [激流网](https://jiliuwang.net/)                 
-- [共产主义旗帜网](http://www.gczyqzggpy.com/)      
+- [共产主义旗帜网](http://www.gczyqzggpy.com/)  
+- [马列毛主义统一战线论坛](https://forum.cmlmuf.top/ )           
+- [马列毛主义统一战线博客](https://blog.cmlmuf.top/)   
 - [托派建立的马克思主义文库](https://www.marxists.org/chinese/index.html) （需要甄别托派理论和西马理论）      
 - [在线旧报刊（人民日报 红旗等)](https://reader.jojokanbao.cn/) 
 - [中国革命历史文献资料](http://geming.20m.com/)  
@@ -183,8 +237,10 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 - [保衛馬克思 新聞](http://www.marxist.com/ ) 
 - [irm国际红色通讯](https://irn.red/)      
 - [继续革命与当代史研究网 ](https://difangwenge.org/)    (需自行辨别资料)  
-- [红色中文网](http://redchinacn.net/)     (需自行辨别资料)
-### tg  
+- [红色中文网](http://redchinacn.net/)     (需自行辨别资料)  
+-  黎明导航（马克思主义网站导航）   
+https://dawnnav.pages.dev/   
+### tg  电报群组  
 - [Marx BBS TMbbs论坛语音 阳和平 红贝 太湖石讲课等]( https://t.me/mlmbbs)    (==已解散==)     
 - [马列毛主义与革命左翼图书馆](https://t.me/taipingtianguo )                
 - [马列毛主义与革命左翼-国际共运]( https://t.me/statelesscommunism )          
@@ -192,33 +248,50 @@ https://www.5hacg.com/article/6622.html   配合迅雷/motrix 等磁力下载工
 - [马列毛新闻]( https://t.me/eventstracing )              
 - [菲律宾人民战争广播](https://t.me/mlmcpp)（本频道主要介绍菲律宾共产党领导下的菲律宾人民战争的进程、斗争历史和革命经验,以此散播马列毛主义
          
-- [东风-马列毛文献资料库](https://t.me/DFMLMlib)                 
-- [无产(阶级革命历史资料]( https://t.me/prorevhisdata )       
--  [烈火学社](https://t.me/liehuoxueshegroup)          
--  中国马列毛主义统一战线]()                 
+- [东风-马列毛文献资料库](https://t.me/DFMLMlib)     
+- [东风-马列毛主义时事评论](https://t.me/dongfengmaliemaozhuyipipan)          
+- [无产阶级革命历史资料]( https://t.me/prorevhisdata )       
+-  [烈火学社](https://t.me/liehuoxueshegroup)                          
 -  [工农解放社](https://t.me/Liberation1966)          
 - [革命火炬](https://t.me/gczy2022)                   
-- [工劳快讯：关注当代打工人]( https://t.me/laborpower )             
+- [工劳快讯：关注当代打工人]( https://t.me/laborpower )        
+- [前进报](https://t.me/vorwarts_2023)      
+- [列宁道路](https://t.me/RoadofLenin)       
+- [品葱精选](https://t.me/featuredofpincong ) 
+- [人民战争-中文广播 （国际共运新闻）](https://t.me/PeoplesWar_zh )  
+- [中国共产主义工人党新闻部](https://t.me/CLPOfChina)
+- [捍卫马克思主义](https://t.me/vorwarts_2023  )    
+- [iyouport（开源项目合集）](https://t.me/iyouport) 
+     
 ###   其他大陆  搜书网站合集       
 1. [熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及文档搜索](https://xmsoushu.com/#/)       
 2. [书享家-电子书下载导航](https://www.shuxiangjia.cn/?rfrom=1024320u&rchannel=1024321o&rqid=10160763377719097155)           
  
-### xmpp公开群      
+### xmpp公开群 
+自行查找        
+</details>
+
+
+
+
+
+
      
----         
-## <font color=red>`七、自由软件/操作系统```  </font>   
-- [自由及开源软件和系统安装使用/手机电脑自由开源虚拟机和容器/应用和文件加密/伪装隐藏/匿名和一次性安全邮箱/消息加密/阅后即焚/文件托管/临时安全聊天室/加密聊天室等等](https://codeberg.org/p23tyjujukk/internet-security)       
+<details>
+<summary><code><strong><font color=red><font size=4>七. 自由软件/操作系统</font></font></strong></code></summary>
+
+
+#### 七、自由软件/操作系统           
+- [自由及开源软件](https://codeberg.org/p23tyjujukk/internet-security)  -包含自由及开源软件和系统安装使用/手机电脑自由开源虚拟机和容器/应用和文件加密/伪装隐藏/匿名和一次性安全邮箱/消息加密/阅后即焚/文件托管/临时安全聊天室/加密聊天室...     
 
 - [电脑版koodoreader本地阅读器官网](https://koodo.960960.xyz/zh)             
 - [电脑版libreofiice 自由办公软件 官网](https://www.libreoffice.org/download/download-libreoffice/)   
 - [7zip官网](https://www.7-zip.org/download.html)          
 - [windows自由开源沙盒软件sandboxie](https://sandboxie-plus.com/downloads/)   （隔离商业软件 软件环境)  
-        
-
-  
-
-
 ......
+
+
+</details>
 ~~持续更新，未完待续.......~~   
 
 ---
